@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/SaugatPdl/SaugatPdl/blob/main/assets/Header.png)
+<!-- ![Header](https://github.com/SaugatPdl/SaugatPdl/blob/main/assets/Header.png) -->
 
 
 
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a passionate learner on WebGIS and Frontend Development with a love for creating interactive and visually appealing web applications.
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning advanced GIS technologies and modern frontend frameworks
-- 👯 I’m looking to collaborate on WebGIS and frontend projects
+- 🔭 I’m currently working on geospatial projects.
+- 🌱 I’m currently learning advanced GIS technologies and modern frontend frameworks.
+- 👯 I’m looking to collaborate on WebGIS and frontend projects.
 - 🤔 I’m looking for help with frontend frameworks and WebGIS technologies.
-- 💬 Ask me about WebGIS, React, or any frontend technologies
+- 💬 Ask me about WebGIS, React, or any frontend technologies.
 - 📫 How to reach me: [saugatpdlofficial@gmail.com](mailto:saugatpdlofficial@gmail.com)
-- ⚡ Fun fact: I enjoy playing guitar, hiking and exploring new places
+- ⚡ Fun fact: I enjoy playing guitar, hiking and exploring new places.
 
 ## GitHub Stats
 <table>
@@ -82,6 +82,8 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   <img alt="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
   <img alt="Premiere Pro" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" />
   <img alt="Audacity" src="https://img.icons8.com/color/48/000000/audacity.png" />
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img alt="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png" />
 </p>
 
 ## Github Streaks
