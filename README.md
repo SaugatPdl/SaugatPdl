@@ -79,6 +79,14 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   <img alt="Audacity" src="https://img.icons8.com/color/48/000000/audacity.png" />
 </p>
 
+## Github Streaks
+<table>
+  <tr>
+  <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatPdl&theme=radical" alt="Saugat's Streak Stats" />
+  </td>
+  </tr>
+</table
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SaugatPdl&color=blue)
 
