@@ -33,10 +33,10 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical" alt="Saugat's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatPdl&layout=compact&theme=radical" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatPdl&layout=compact&theme=radical" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical" alt="Saugat's GitHub stats" />
     </td>
   </tr>
 </table
@@ -78,13 +78,6 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   <img alt="Audacity" src="https://img.icons8.com/color/48/000000/audacity.png" />
 </p>
 
-## About Me
-I'm a passionate developer who loves coding and mapping!
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SaugatPdl&color=blue)
 
