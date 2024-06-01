@@ -30,10 +30,16 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 - ⚡ Fun fact: I enjoy playing guitar, hiking and exploring new places
 
 ## GitHub Stats
-![Saugat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatPdl&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical" alt="Saugat's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatPdl&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table
 
 <!-- ## Current Projects
 - [Project Name](https://github.com/SaugatPdl/project-repo) - Brief description of the project.
