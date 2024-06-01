@@ -81,12 +81,14 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 
 ## Github Streaks
 <table>
-  <tr>
-  <td colspan="2">
+ <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatPdl&theme=radical" alt="Saugat's Streak Stats" />
-  </td>
+    </td>
   </tr>
 </table
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SaugatPdl&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaugatPdl&style=for-the-badge&color=blue" alt="Visitor Count"/>
+</p>
 
