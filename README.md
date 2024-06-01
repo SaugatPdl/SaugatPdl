@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Saugat Paudel
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaugatPdl&style=for-the-badge&color=blue" alt="Visitor Count"/>
+</p>
+
+
 ## About Me
 I'm a passionate learner on WebGIS and Frontend Development with a love for creating interactive and visually appealing web applications.
 - 🔭 I’m currently working on [Your Current Project]
@@ -88,7 +93,5 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   </tr>
 </table
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaugatPdl&style=for-the-badge&color=blue" alt="Visitor Count"/>
-</p>
+
 
