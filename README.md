@@ -32,7 +32,7 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 - 👯 I’m looking to collaborate on WebGIS and frontend projects.
 - 🤔 I’m looking for help with frontend frameworks and WebGIS technologies.
 - 📫 How to reach me: [saugatpdlofficial@gmail.com](mailto:saugatpdlofficial@gmail.com)
-- ⚡ Fun fact: I enjoy playing guitar, hiking and exploring new places.
+- ⚡ Fun fact: I enjoy playing guitar, and exploring new places.
 
 <!-- ## GitHub Stats
 <table>
