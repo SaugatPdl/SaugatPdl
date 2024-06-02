@@ -31,7 +31,6 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 - 🌱 I’m currently learning advanced GIS technologies and modern frontend frameworks.
 - 👯 I’m looking to collaborate on WebGIS and frontend projects.
 - 🤔 I’m looking for help with frontend frameworks and WebGIS technologies.
-- 💬 Ask me about WebGIS, React, or any frontend technologies.
 - 📫 How to reach me: [saugatpdlofficial@gmail.com](mailto:saugatpdlofficial@gmail.com)
 - ⚡ Fun fact: I enjoy playing guitar, hiking and exploring new places.
 
