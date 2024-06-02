@@ -92,7 +92,7 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatPdl&theme=radical" alt="Saugat's Streak Stats" />
     </td>
   </tr>
-</table -->
+</table> -->
 
 
 
