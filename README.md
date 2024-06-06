@@ -34,7 +34,7 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
 - 📫 How to reach me: [saugatpdlofficial@gmail.com](mailto:saugatpdlofficial@gmail.com)
 - ⚡ Fun fact: I enjoy playing guitar, and exploring new places.
 
-<!-- ## GitHub Stats
+ ## GitHub Stats
 <table>
   <tr>
     <td>
@@ -44,7 +44,7 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
       <img src="https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical" alt="Saugat's GitHub stats" />
     </td>
   </tr>
-</table -->
+</table 
 
 <!-- ## Current Projects
 - [Project Name](https://github.com/SaugatPdl/project-repo) - Brief description of the project.
@@ -85,14 +85,14 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   <img alt="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png" />
 </p>
 
-<!-- ## Github Streaks
+ ## Github Streaks
 <table>
  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatPdl&theme=radical" alt="Saugat's Streak Stats" />
     </td>
   </tr>
-</table> -->
+</table>
 
 
 
