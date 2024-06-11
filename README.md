@@ -65,7 +65,7 @@ I'm a passionate learner on WebGIS and Frontend Development with a love for crea
   <a href="https://www.instagram.com/saugatpdl_" target="_blank">
     <img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
-  <a href="https://www.youtube.com/@geospatialgeek" target="_blank">
+  <a href="https://www.youtube.com/channel/UCU5EypfYsGmR0MpAu5IsvcQ" target="_blank">
     <img alt="YouTube" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
   </a>
 </p>
