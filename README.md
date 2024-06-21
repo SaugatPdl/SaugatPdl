@@ -1,98 +1,31 @@
-<!--
-## Hii there 👋
-**SaugatPdl/SaugatPdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![Header](https://github.com/SaugatPdl/SaugatPdl/blob/main/assets/Header.png) -->
+# 💫 About Me:
+🔭 I’m currently working on geospatial projects.<br>🌱 I’m currently learning advanced GIS technologies and modern frontend frameworks.<br>👯 I’m looking to collaborate on WebGIS and frontend projects.<br>🤔 I’m looking for help with frontend frameworks and WebGIS technologies.<br>📫 How to reach me: saugatpdlofficial@gmail.com<br>⚡ Fun fact: I enjoy playing guitar, and exploring new places.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saugat.poudel.754) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saugatpdl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saugatpdl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@saugatpdl_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GISandCode) 
 
-# Hi there 👋, I'm Saugat Paudel
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saugatpdl&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saugatpdl&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatpdl&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaugatPdl&style=for-the-badge&color=blue" alt="Visitor Count"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saugatpdl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-## About Me
-I'm a passionate learner on WebGIS and Frontend Development with a love for creating interactive and visually appealing web applications.
-- 🔭 I’m currently working on geospatial projects.
-- 🌱 I’m currently learning advanced GIS technologies and modern frontend frameworks.
-- 👯 I’m looking to collaborate on WebGIS and frontend projects.
-- 🤔 I’m looking for help with frontend frameworks and WebGIS technologies.
-- 📫 How to reach me: [saugatpdlofficial@gmail.com](mailto:saugatpdlofficial@gmail.com)
-- ⚡ Fun fact: I enjoy playing guitar, and exploring new places.
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
- ## GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatPdl&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaugatPdl&show_icons=true&theme=radical" alt="Saugat's GitHub stats" />
-    </td>
-  </tr>
-</table 
+---
+[![](https://visitcount.itsvg.in/api?id=saugatpdl&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- ## Current Projects
-- [Project Name](https://github.com/SaugatPdl/project-repo) - Brief description of the project.
-- [Another Project](https://github.com/SaugatPdl/another-project-repo) - Brief description of another project.
--->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/saugatpdl) 
 
-## Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/saugatpdl/" target="_blank">
-    <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-  </a>
-  <a href="mailto:saugatpdlofficial@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
-  </a>
-  <a href="https://www.facebook.com/saugat.poudel.754" target="_blank">
-    <img alt="Facebook" src="https://img.icons8.com/fluent/48/000000/facebook.png" />
-  </a>
-  <a href="https://www.instagram.com/saugatpdl_" target="_blank">
-    <img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCU5EypfYsGmR0MpAu5IsvcQ" target="_blank">
-    <img alt="YouTube" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
-  </a>
-</p>
-
-## Skills
-<p align="left">
-  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" />
-  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img alt="GIS" src="https://img.icons8.com/color/48/000000/worldwide-location.png" />
-  <img alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
-  <img alt="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
-  <img alt="Premiere Pro" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" />
-  <img alt="Audacity" src="https://img.icons8.com/color/48/000000/audacity.png" />
-  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img alt="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png" />
-</p>
-
- ## Github Streaks
-<table>
- <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatPdl&theme=radical" alt="Saugat's Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
